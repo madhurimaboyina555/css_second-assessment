@@ -1,0 +1,43 @@
+.container{
+    width: 1330px;
+}
+.left{
+    background-color: greenyellow;
+    height: 650px;
+    width: 195px;
+    float: left;
+    margin-right: 5px;
+}
+.right{
+    width:1130px; 
+    display: inline;
+}
+.col1{
+    width: 1130px;
+    height: 100px;
+    background-color: yellow;
+    float:left;
+    margin-bottom: 5px;
+   
+}
+.col2{
+    width: 1130px;
+    height: 335px;
+    background-color: green;
+    float: left;
+    margin-bottom: 5px;
+     
+}
+.col3{
+    width: 1130px;
+    height: 100px;
+    background-color: yellowgreen;
+    float:left;
+    margin-bottom: 5px;
+}
+.col4{
+    width: 1130px;
+    height: 100px;
+    background-color: yellow;
+    float:left;
+}
